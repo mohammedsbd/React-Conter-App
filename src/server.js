@@ -6969,6 +6969,12 @@ const QuoteOfTheDay = () => {
   );
 };
       .then((data) => {
+        — {author || "Unknown"}
+      </p>
+    </div>
+  );
+};
+      .then((data) => {
         setQuote(data.content);
         setAuthor(data.author);
       })
