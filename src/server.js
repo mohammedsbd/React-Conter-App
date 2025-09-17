@@ -8731,6 +8731,8 @@ export default QuoteOfTheDay;
 };
 
 export default QuoteOfTheDay;
+ 
+export default QuoteOfTheDay;
 export default QuoteOfTheDay;
 export default QuoteOfTheDay;
   return (
@@ -8756,3 +8758,4 @@ export default QuoteOfTheDay;
 };
 
 export default QuoteOfTheDay;
+ 
